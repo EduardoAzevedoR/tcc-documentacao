@@ -1,0 +1,36 @@
+Descrição versão 1.0
+
+[Funcionalidades | Usuário]
+
+O usuário é qualquer pessoa do sistema, seja aluno professor ou administrador.
+O Usuário deverá estar logado no sistema.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Funcionalidades | Aluno]
+
+O Aluno deverá cadastrar aluno
+O Aluno deverá cadastrar perguntas
+O Aluno deverá cadastrar as respostas das perguntas
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Funcionalidades | Professor]
+
+O professor deverá cadastrar aluno
+O professor deverá cadastrar perguntas
+O professor deverá cadastrar as respostas das perguntas
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Relatórios]
+
+Os professores terão acesso ao seguinte relatórios:
+
+[Dificuldade por sessão]
+[Participação do Aluno]
+[Desempenho por Aluno]
+[Ranking]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
